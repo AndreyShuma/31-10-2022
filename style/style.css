@@ -1,20 +1,15 @@
 .wrapper {
-	border: 1px green solid;
-	width: 25%;
 }
 
-/*.test {
+.test {
 	border: 1px solid red ;
 }
-/*.test-margin {
+.test-margin {
 	margin: 50px 50px 100px 50px;
 	border: 1px solid blue;
 	padding: 50px;
 }
-/*.test-span {
-	border: 1px solid green;
-	padding: 100px;
-}
-/*.example {
+
+.example {
 	
 }*/
